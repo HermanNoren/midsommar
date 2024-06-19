@@ -1,10 +1,10 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #ece4d3;
 }
 
 .img {
   width: 100vw;
   height: auto;
-  background-image: url(./midsommar.svg);
 }
